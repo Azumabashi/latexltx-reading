@@ -5,3 +5,6 @@ TeXLive 2021 の latex.ltx を購読してみようとするリポジトリ．
 
 ## 参考文献
 [references.md](references.md) を参照
+
+## 変更履歴
+[history.md](history.md) を参照
